@@ -1,0 +1,16 @@
+GET     /               -login.html
+GET     /login          -login.html
+POST    /login          -login.html
+
+GET     /views          -views.html
+POST    /views          -views.html
+
+GET     /profile/:id    -profile.html
+POST    /profile/:id    -profile.html
+
+GET     /info           -info.html
+
+POST     /logout         -logout.html
+
+GET     /register       -register.html
+POST    /register       -register.html

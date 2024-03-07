@@ -1,0 +1,6 @@
+<!-- navbar active button color change -->
+.navbar .nav-item .nav-link.active {
+  color: #fff;
+  background-color: #007bff;
+  border-radius: 5px;
+}
